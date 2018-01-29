@@ -1,0 +1,77 @@
+We are today talking
+about moral persuasion: What is moral and immoral
+in trying to change people's behaviors by using technology and using design? And I don't know what you expect, but when I was thinking about that issue, I early on realized what I'm not able
+to give you are answers. I'm not able to tell you
+what is moral or immoral, because we're living
+in a pluralist society. My values can be radically
+different from your values, which means that what I consider
+moral or immoral based on that might not necessarily be
+what you consider moral or immoral. But I also realized
+there is one thing that I could give you, and that is what this guy
+behind me gave the world -- Socrates. It is questions. What I can do and what
+I would like to do with you is give you, like that initial question, a set of questions
+to figure out for yourselves, layer by layer, like peeling an onion, getting at the core of what you believe
+is moral or immoral persuasion. And I'd like to do that
+with a couple of examples of technologies where people have used game elements
+to get people to do things. So it's at first a very simple,
+very obvious question I would like to give you: What are your intentions
+if you are designing something? And obviously, intentions
+are not the only thing, so here is another example
+for one of these applications. There are a couple of these kinds
+of Eco dashboards right now -- dashboards built into cars -- which try to motivate you
+to drive more fuel-efficiently. This here is Nissan's MyLeaf, where your driving behavior
+is compared with the driving behavior of other people, so you can compete for who drives a route
+the most fuel-efficiently. And these things are
+very effective, it turns out -- so effective that they motivate people
+to engage in unsafe driving behaviors, like not stopping at a red light, because that way you have
+to stop and restart the engine, and that would use quite
+some fuel, wouldn't it? So despite this being
+a very well-intended application, obviously there was a side effect of that. Here's another example
+for one of these side effects. Commendable: a site that allows parents
+to give their kids little badges for doing the things
+that parents want their kids to do, like tying their shoes. And at first that sounds very nice, very benign, well-intended. But it turns out, if you look into
+research on people's mindset, caring about outcomes, caring about public recognition, caring about these kinds
+of public tokens of recognition is not necessarily very helpful for your long-term
+psychological well-being. It's better if you care
+about learning something. It's better when you care about yourself than how you appear
+in front of other people. So that kind of motivational tool
+that is used actually, in and of itself, has a long-term side effect, in that every time we use a technology that uses something
+like public recognition or status, we're actually positively endorsing this as a good and normal thing
+to care about -- that way, possibly having
+a detrimental effect on the long-term psychological
+well-being of ourselves as a culture. So that's a second, very obvious question: What are the effects
+of what you're doing -- the effects you're having
+with the device, like less fuel, as well as the effects
+of the actual tools you're using to get people to do things -- public recognition? Now is that all -- intention, effect? Well, there are some technologies
+which obviously combine both. Both good long-term and short-term effects and a positive intention
+like Fred Stutzman's "Freedom," where the whole point
+of that application is -- well, we're usually so bombarded
+with constant requests by other people, with this device, you can shut off the Internet
+connectivity of your PC of choice for a pre-set amount of time, to actually get some work done. And I think most of us will agree
+that's something well-intended, and also has good consequences. In the words of Michel Foucault, it is a "technology of the self." It is a technology
+that empowers the individual to determine its own life course, to shape itself. But the problem is,
+as Foucault points out, that every technology of the self has a technology of domination
+as its flip side. As you see in today's modern
+liberal democracies, the society, the state,
+not only allows us to determine our self, to shape our self, it also demands it of us. It demands that we optimize ourselves, that we control ourselves, that we self-manage continuously, because that's the only way
+in which such a liberal society works. These technologies want us
+to stay in the game that society has devised for us. They want us to fit in even better. They want us to optimize
+ourselves to fit in. Now, I don't say that
+is necessarily a bad thing; I just think that this example
+points us to a general realization, and that is: no matter what technology
+or design you look at, even something we consider
+as well-intended and as good in its effects
+as Stutzman's Freedom, comes with certain values embedded in it. And we can question these values. We can question: Is it a good thing that all of us continuously
+self-optimize ourselves to fit better into that society? Or to give you another example: What about a piece
+of persuasive technology that convinces Muslim women
+to wear their headscarves? Is that a good or a bad technology in its intentions or in its effects? Well, that basically depends on
+the kind of values you bring to bear to make these kinds of judgments. So that's a third question: What values do you use to judge? And speaking of values: I've noticed that in the discussion
+about moral persuasion online and when I'm talking with people, more often than not,
+there is a weird bias. And that bias is that we're asking: Is this or that "still" ethical? Is it "still" permissible? We're asking things like: Is this Oxfam donation form, where the regular monthly
+donation is the preset default, and people, maybe without intending it, are encouraged or nudged
+into giving a regular donation instead of a one-time donation, is that "still' permissible? Is it "still" ethical? We're fishing at the low end. But in fact, that question,
+"Is it 'still' ethical?" is just one way of looking at ethics. Because if you look at the beginning
+of ethics in Western culture, you see a very different idea
+of what ethics also could be. For Aristotle, ethics
+was not about the question, "Is that still good, or is it bad?" Ethics was about the question
+of how to live life well. 

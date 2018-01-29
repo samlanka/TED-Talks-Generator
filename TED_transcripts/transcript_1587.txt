@@ -1,0 +1,70 @@
+My job is to design, build and study
+robots that communicate with people. But this story doesn't start with robotics
+at all, it starts with animation. When I first saw Pixar's "Luxo Jr.," I was amazed by how much
+emotion they could put into something as trivial as a desk lamp. I mean, look at them --
+at the end of this movie, you actually feel something
+for two pieces of furniture. (Laughter) And I said, I have
+to learn how to do this. So I made a really bad career decision. (Laughter) And that's what my mom
+was like when I did it. (Laughter) I left a very cozy tech job in Israel
+at a nice software company and I moved to New York
+to study animation. And there I lived in a collapsing apartment building
+in Harlem with roommates. I'm not using this phrase
+metaphorically -- the ceiling actually collapsed
+one day in our living room. Whenever they did news stories
+about building violations in New York, they would put the report
+in front of our building, as kind of, like, a backdrop
+to show how bad things are. Anyway, during the day, I went to school and at night I would sit and draw
+frame by frame of pencil animation. And I learned two surprising lessons. One of them was that
+when you want to arouse emotions, it doesn't matter so much
+how something looks; it's all in the motion, in the timing
+of how the thing moves. And the second was something
+one of our teachers told us. He actually did the weasel in "Ice Age." And he said, "As an animator,
+you're not a director -- you're an actor." So, if you want to find
+the right motion for a character, don't think about it --
+go use your body to find it. Stand in front of a mirror,
+act it out in front of a camera -- whatever you need -- and then
+put it back in your character. A year later I found myself at MIT
+in the Robotic Life Group. It was one of the first groups
+researching the relationships between humans and robots. And I still had this dream
+to make an actual, physical Luxo Jr. lamp. But I found that robots didn't move
+at all in this engaging way that I was used to
+from my animation studies. Instead, they were all --
+how should I put it -- they were all kind of robotic. (Laughter) And I thought, what if I took
+whatever I learned in animation school, and used that to design
+my robotic desk lamp. So I went and designed frame by frame to try to make this robot as graceful
+and engaging as possible. And here when you see the robot
+interacting with me on a desktop -- and I'm actually redesigning the robot, so, unbeknownst to itself, it's kind of digging its own
+grave by helping me. (Laughter) I wanted it to be less of a mechanical
+structure giving me light, and more of a helpful,
+kind of quiet apprentice that's always there when you need it
+and doesn't really interfere. And when, for example, I'm looking
+for a battery that I can't find, in a subtle way, it'll show me
+where the battery is. So you can see my confusion here. I'm not an actor. And I want you to notice
+how the same mechanical structure can, at one point,
+just by the way it moves, seem gentle and caring
+and in the other case, seem violent and confrontational. And it's the same structure,
+just the motion is different. Actor: "You want to know something?
+Well, you want to know something? He was already dead! Just laying there, eyes glazed over!" (Laughter) But, moving in a graceful way
+is just one building block of this whole structure
+called human-robot interaction. I was, at the time, doing my PhD,
+I was working on human-robot teamwork, teams of humans and robots
+working together. I was studying the engineering, the psychology,
+the philosophy of teamwork, and at the same time, I found myself in my own kind
+of teamwork situation, with a good friend of mine,
+who's actually here. And in that situation,
+we can easily imagine robots in the near future being there with us. It was after a Passover Seder. We were folding up
+a lot of folding chairs, and I was amazed at how quickly
+we found our own rhythm. Everybody did their own part,
+we didn't have to divide our tasks. We didn't have to communicate
+verbally about this -- it all just happened. And I thought, humans and robots
+don't look at all like this. When humans and robots interact,
+it's much more like a chess game: the human does a thing, the robot
+analyzes whatever the human did, the robot decides what to do next,
+plans it and does it. Then the human waits,
+until it's their turn again. So it's much more like a chess game,
+and that makes sense, because chess is great for mathematicians
+and computer scientists. It's all about information, analysis,
+decision-making and planning. But I wanted my robot
+to be less of a chess player, and more like a doer that just clicks and works together. So I made my second
+horrible career choice: I decided to study acting for a semester. I took off from the PhD,
+I went to acting classes. I actually participated in a play -- 

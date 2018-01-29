@@ -1,0 +1,34 @@
+So I'm an artist, but a little bit of a peculiar one. I don't paint. I can't draw. My shop teacher in high school
+wrote that I was a menace on my report card. You probably don't really
+want to see my photographs. But there is one thing I know how to do: I know how to program a computer. I can code. And people will tell me
+that 100 years ago, folks like me didn't exist, that it was impossible, that art made with data is a new thing, it's a product of our age, it's something that's really important to think of as something
+that's very "now." And that's true. But there is an art form
+that's been around for a very long time that's really about using information, abstract information, to make emotionally resonant pieces. And it's called music. We've been making music
+for tens of thousands of years, right? And if you think about what music is -- notes and chords and keys
+and harmonies and melodies -- these things are algorithms. These things are systems that are designed to unfold over time, to make us feel. I came to the arts through music. I was trained as a composer, and about 15 years ago,
+I started making pieces that were designed to look
+at the intersection between sound and image, to use an image to unveil
+a musical structure or to use a sound to show you
+something interesting about something that's usually pictorial. So what you're seeing on the screen
+is literally being drawn by the musical structure
+of the musicians onstage, and there's no accident
+that it looks like a plant, because the underlying
+algorithmic biology of the plant is what informed the musical structure
+in the first place. So once you know how to do this,
+once you know how to code with media, you can do some pretty cool stuff. This is a project I did
+for the Sundance Film Festival. Really simple idea: you take
+every Academy Award Best Picture, you speed it up to one minute each and string them all together. And so in 75 minutes, I can show you
+the history of Hollywood cinema. And what it really shows you
+is the history of editing in Hollywood cinema. So on the left, we've got Casablanca;
+on the right, we've got Chicago. And you can see that Casablanca
+is a little easier to read. That's because the average length
+of a cinematic shot in the 1940s was 26 seconds, and now it's around six seconds. This is a project that was inspired by some work that was funded
+by the US Federal Government in the early 2000s, to look at video footage and find
+a specific actor in any video. And so I repurposed this code
+to train a system on one person in our culture who would never need
+to be surveilled in that manner, which is Britney Spears. I downloaded 2,000 paparazzi
+photos of Britney Spears and trained my computer to find her face and her face alone. I can run any footage of her through it
+and will center her eyes in the frame, and this sort of is a little
+double commentary about surveillance in our society. We are very fraught with anxiety
+about being watched, but then we obsess over celebrity. What you're seeing on the screen here
+is a collaboration I did 

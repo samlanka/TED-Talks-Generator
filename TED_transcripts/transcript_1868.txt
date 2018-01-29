@@ -1,0 +1,145 @@
+Let me show you something. (Video) Girl: Okay, that's a cat
+sitting in a bed. The boy is petting the elephant. Those are people
+that are going on an airplane. That's a big airplane. Fei-Fei Li: This is
+a three-year-old child describing what she sees
+in a series of photos. She might still have a lot
+to learn about this world, but she's already an expert
+at one very important task: to make sense of what she sees. Our society is more
+technologically advanced than ever. We send people to the moon,
+we make phones that talk to us or customize radio stations
+that can play only music we like. Yet, our most advanced
+machines and computers still struggle at this task. So I'm here today
+to give you a progress report on the latest advances
+in our research in computer vision, one of the most frontier
+and potentially revolutionary technologies in computer science. Yes, we have prototyped cars
+that can drive by themselves, but without smart vision,
+they cannot really tell the difference between a crumpled paper bag
+on the road, which can be run over, and a rock that size,
+which should be avoided. We have made fabulous megapixel cameras, but we have not delivered
+sight to the blind. Drones can fly over massive land, but don't have enough vision technology to help us to track
+the changes of the rainforests. Security cameras are everywhere, but they do not alert us when a child
+is drowning in a swimming pool. Photos and videos are becoming
+an integral part of global life. They're being generated at a pace
+that's far beyond what any human, or teams of humans, could hope to view, and you and I are contributing
+to that at this TED. Yet our most advanced software
+is still struggling at understanding and managing this enormous content. So in other words,
+collectively as a society, we're very much blind, because our smartest 
+machines are still blind. "Why is this so hard?" you may ask. Cameras can take pictures like this one by converting lights into
+a two-dimensional array of numbers known as pixels, but these are just lifeless numbers. They do not carry meaning in themselves. Just like to hear is not
+the same as to listen, to take pictures is not
+the same as to see, and by seeing,
+we really mean understanding. In fact, it took Mother Nature
+540 million years of hard work to do this task, and much of that effort went into developing the visual
+processing apparatus of our brains, not the eyes themselves. So vision begins with the eyes, but it truly takes place in the brain. So for 15 years now, starting
+from my Ph.D. at Caltech and then leading Stanford's Vision Lab, I've been working with my mentors,
+collaborators and students to teach computers to see. Our research field is called
+computer vision and machine learning. It's part of the general field
+of artificial intelligence. So ultimately, we want to teach
+the machines to see just like we do: naming objects, identifying people,
+inferring 3D geometry of things, understanding relations, emotions,
+actions and intentions. You and I weave together entire stories
+of people, places and things the moment we lay our gaze on them. The first step towards this goal
+is to teach a computer to see objects, the building block of the visual world. In its simplest terms,
+imagine this teaching process as showing the computers
+some training images of a particular object, let's say cats, and designing a model that learns
+from these training images. How hard can this be? After all, a cat is just
+a collection of shapes and colors, and this is what we did
+in the early days of object modeling. We'd tell the computer algorithm
+in a mathematical language that a cat has a round face,
+a chubby body, two pointy ears, and a long tail, and that looked all fine. But what about this cat? (Laughter) It's all curled up. Now you have to add another shape
+and viewpoint to the object model. But what if cats are hidden? What about these silly cats? Now you get my point. Even something as simple
+as a household pet can present an infinite number
+of variations to the object model, and that's just one object. So about eight years ago, a very simple and profound observation
+changed my thinking. No one tells a child how to see, especially in the early years. They learn this through
+real-world experiences and examples. If you consider a child's eyes as a pair of biological cameras, they take one picture
+about every 200 milliseconds, the average time an eye movement is made. So by age three, a child would have seen
+hundreds of millions of pictures of the real world. That's a lot of training examples. So instead of focusing solely
+on better and better algorithms, my insight was to give the algorithms
+the kind of training data that a child was given through experiences in both quantity and quality. Once we know this, we knew we needed to collect a data set that has far more images
+than we have ever had before, perhaps thousands of times more, and together with Professor
+Kai Li at Princeton University, we launched the ImageNet project in 2007. Luckily, we didn't have to mount
+a camera on our head and wait for many years. We went to the Internet, the biggest treasure trove of pictures
+that humans have ever created. We downloaded nearly a billion images and used crowdsourcing technology
+like the Amazon Mechanical Turk platform to help us to label these images. At its peak, ImageNet was one of
+the biggest employers of the Amazon Mechanical Turk workers: together, almost 50,000 workers from 167 countries around the world helped us to clean, sort and label nearly a billion candidate images. That was how much effort it took to capture even a fraction
+of the imagery a child's mind takes in
+in the early developmental years. In hindsight, this idea of using big data to train computer algorithms
+may seem obvious now, but back in 2007, it was not so obvious. We were fairly alone on this journey
+for quite a while. Some very friendly colleagues advised me
+to do something more useful for my tenure, and we were constantly struggling
+for research funding. Once, I even joked to my graduate students that I would just reopen
+my dry cleaner's shop to fund ImageNet. After all, that's how I funded
+my college years. So we carried on. In 2009, the ImageNet project delivered a database of 15 million images across 22,000 classes
+of objects and things organized by everyday English words. In both quantity and quality, this was an unprecedented scale. As an example, in the case of cats, we have more than 62,000 cats of all kinds of looks and poses and across all species
+of domestic and wild cats. We were thrilled
+to have put together ImageNet, and we wanted the whole research world
+to benefit from it, so in the TED fashion,
+we opened up the entire data set to the worldwide
+research community for free. (Applause) Now that we have the data
+to nourish our computer brain, we're ready to come back
+to the algorithms themselves. As it turned out, the wealth
+of information provided by ImageNet was a perfect match to a particular class
+of machine learning algorithms called convolutional neural network, pioneered by Kunihiko Fukushima,
+Geoff Hinton, and Yann LeCun back in the 1970s and '80s. Just like the brain consists
+of billions of highly connected neurons, a basic operating unit in a neural network is a neuron-like node. It takes input from other nodes and sends output to others. Moreover, these hundreds of thousands
+or even millions of nodes are organized in hierarchical layers, also similar to the brain. In a typical neural network we use
+to train our object recognition model, it has 24 million nodes, 140 million parameters, and 15 billion connections. That's an enormous model. Powered by the massive data from ImageNet and the modern CPUs and GPUs
+to train such a humongous model, the convolutional neural network blossomed in a way that no one expected. It became the winning architecture to generate exciting new results
+in object recognition. This is a computer telling us this picture contains a cat and where the cat is. Of course there are more things than cats, so here's a computer algorithm telling us the picture contains
+a boy and a teddy bear; a dog, a person, and a small kite
+in the background; or a picture of very busy things like a man, a skateboard,
+railings, a lampost, and so on. Sometimes, when the computer
+is not so confident about what it sees, we have taught it to be smart enough to give us a safe answer
+instead of committing too much, just like we would do, but other times our computer algorithm
+is remarkable at telling us what exactly the objects are, like the make, model, year of the cars. We applied this algorithm to millions
+of Google Street View images across hundreds of American cities, and we have learned something
+really interesting: first, it confirmed our common wisdom that car prices correlate very well with household incomes. But surprisingly, car prices
+also correlate well with crime rates in cities, or voting patterns by zip codes. So wait a minute. Is that it? Has the computer already matched
+or even surpassed human capabilities? Not so fast. So far, we have just taught
+the computer to see objects. This is like a small child
+learning to utter a few nouns. It's an incredible accomplishment, but it's only the first step. Soon, another developmental
+milestone will be hit, and children begin
+to communicate in sentences. So instead of saying
+this is a cat in the picture, you already heard the little girl
+telling us this is a cat lying on a bed. So to teach a computer
+to see a picture and generate sentences, the marriage between big data
+and machine learning algorithm has to take another step. Now, the computer has to learn
+from both pictures as well as natural language sentences generated by humans. Just like the brain integrates
+vision and language, we developed a model
+that connects parts of visual things like visual snippets with words and phrases in sentences. About four months ago, we finally tied all this together and produced one of the first
+computer vision models that is capable of generating
+a human-like sentence when it sees a picture for the first time. Now, I'm ready to show you
+what the computer says when it sees the picture that the little girl saw
+at the beginning of this talk. (Video) Computer: A man is standing
+next to an elephant. A large airplane sitting on top
+of an airport runway. FFL: Of course, we're still working hard
+to improve our algorithms, and it still has a lot to learn. (Applause) And the computer still makes mistakes. (Video) Computer: A cat lying
+on a bed in a blanket. FFL: So of course, when it sees
+too many cats, it thinks everything
+might look like a cat. (Video) Computer: A young boy
+is holding a baseball bat. (Laughter) FFL: Or, if it hasn't seen a toothbrush,
+it confuses it with a baseball bat. (Video) Computer: A man riding a horse
+down a street next to a building. (Laughter) FFL: We haven't taught Art 101
+to the computers. (Video) Computer: A zebra standing
+in a field of grass. FFL: And it hasn't learned to appreciate
+the stunning beauty of nature like you and I do. So it has been a long journey. To get from age zero to three was hard. The real challenge is to go
+from three to 13 and far beyond. Let me remind you with this picture
+of the boy and the cake again. So far, we have taught
+the computer to see objects or even tell us a simple story
+when seeing a picture. (Video) Computer: A person sitting
+at a table with a cake. FFL: But there's so much more 
+to this picture than just a person and a cake. What the computer doesn't see
+is that this is a special Italian cake that's only served during Easter time. The boy is wearing his favorite t-shirt given to him as a gift by his father
+after a trip to Sydney, and you and I can all tell how happy he is and what's exactly on his mind
+at that moment. This is my son Leo. On my quest for visual intelligence, I think of Leo constantly and the future world he will live in. When machines can see, doctors and nurses will have
+extra pairs of tireless eyes to help them to diagnose
+and take care of patients. Cars will run smarter
+and safer on the road. Robots, not just humans, will help us to brave the disaster zones
+to save the trapped and wounded. We will discover new species, 
+better materials, and explore unseen frontiers
+with the help of the machines. Little by little, we're giving sight
+to the machines. First, we teach them to see. Then, they help us to see better. For the first time, human eyes
+won't be the only ones pondering and exploring our world. We will not only use the machines
+for their intelligence, we will also collaborate with them
+in ways that we cannot even imagine. This is my quest: to give computers visual intelligence and to create a better future
+for Leo and for the world. Thank you. (Applause) 

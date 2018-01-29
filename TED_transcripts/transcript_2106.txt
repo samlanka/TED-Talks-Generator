@@ -1,0 +1,91 @@
+Chris Anderson: This is such
+a strange thing. Your software, Linux,
+is in millions of computers, it probably powers much of the Internet. And I think that there are, like, a billion and a half active
+Android devices out there. Your software is in every
+single one of them. It's kind of amazing. You must have some amazing
+software headquarters driving all this. That's what I thought -- and I was shocked
+when I saw a picture of it. I mean, this is -- this is the Linux world headquarters. (Laughter) (Applause) Linus Torvalds: It really
+doesn't look like much. And I have to say, the most interesting part in this picture, that people mostly react to, is the walking desk. It is the most interesting
+part in my office and I'm not actually using it anymore. And I think the two things are related. The way I work is ... I want to not have external stimulation. You can kind of see,
+on the walls are this light green. I'm told that at mental institutions
+they use that on the walls. (Laughter) It's like a calming color, it's not something
+that really stimulates you. What you can't see is the computer here,
+you only see the screen, but the main thing I worry
+about in my computer is -- it doesn't have to be big
+and powerful, although I like that -- it really has to be completely silent. I know people who work for Google and they have their own
+small data center at home, and I don't do that. My office is the most
+boring office you'll ever see. And I sit there alone in the quiet. If the cat comes up, it sits in my lap. And I want to hear the cat purring, not the sound of the fans in the computer. CA: So this is astonishing, because working this way, you're able to run this vast
+technology empire -- it is an empire -- so that's an amazing testament
+to the power of open source. Tell us how you got
+to understand open source and how it lead
+to the development of Linux. LT: I mean, I still work alone. Really -- I work alone in my house, often in my bathrobe. When a photographer shows up, I dress up, so I have clothes on. (Laughter) And that's how I've always worked. I mean, this was how I started Linux, too. I did not start Linux
+as a collaborative project. I started it as one
+in a series of many projects I had done at the time for myself, partly because I needed the end result, but even more because I just
+enjoyed programming. So it was about the end of the journey, which, 25 years later,
+we still have not reached. But it was really about the fact
+that I was looking for a project on my own and there was no open source,
+really, on my radar at all. And what happened is ... the project grows and becomes something
+you want to show off to people. Really, this is more of a, "Wow,
+look at what I did!" And trust me -- it was not
+that great back then. I made it publicly available, and it wasn't even
+open source at that point. At that point it was source that was open,
+but there was no intention behind using the kind of open-source
+methodology that we think of today to improve it. It was more like, "Look, I've been working
+on this for half a year, I'd love to have comments." And other people approached me. At the University of Helsinki, I had a friend who was one
+of the open source -- it was called mainly
+"free software" back then -- and he actually introduced me
+to the notion that, hey, you can use these open-source
+licenses that had been around. And I thought about it for a while. I was actually worried about the whole
+commercial interests coming in. I mean, that's one of the worries
+I think most people who start out have, is that they worry about somebody
+taking advantage of their work, right? And I decided, "What the hell?" And -- CA: And then at some point, someone contributed
+some code that you thought, "Wow, that really is interesting,
+I would not have thought of that. This could actually improve this." LT: It didn't even start
+by people contributing code, it was more that people
+started contributing ideas. And just the fact that somebody else
+takes a look at your project -- and I'm sure it's true
+of other things, too, but it's definitely true in code -- is that somebody else
+takes an interest in your code, looks at it enough to actually
+give you feedback and give you ideas. That was a huge thing for me. I was 21 at the time, so I was young, but I had already programmed
+for half my life, basically. And every project before that
+had been completely personal and it was a revelation when people
+just started commenting, started giving feedback on your code. And even before they started
+giving code back, that was, I think, one of the big
+moments where I said, "I love other people!" Don't get me wrong -- I'm actually not a people person. (Laughter) I don't really love other people -- (Laughter) But I love computers, I love interacting with other
+people on email, because it kind of gives you that buffer. But I do love other people who comment
+and get involved in my project. And it made it so much more. CA: So was there a moment
+when you saw what was being built and it suddenly started taking off, and you thought, "Wait a sec,
+this actually could be something huge, not just a personal project
+that I'm getting nice feedback on, but a kind of explosive development
+in the whole technology world"? LT: Not really. I mean, the big point for me, really,
+was not when it was becoming huge, it was when it was becoming little. The big point for me was not being alone and having 10, maybe 100
+people being involved -- that was a big point. Then everything else was very gradual. Going from 100 people to a million people
+is not a big deal -- to me. Well, I mean, maybe it is if you're -- (Laughter) If you want to sell your result
+then it's a huge deal -- don't get me wrong. But if you're interested in the technology and you're interested in the project, the big part was getting the community. Then the community grew gradually. And there's actually not
+a single point where I went like, "Wow, that just took off!" because it -- I mean -- it took a long time, relatively. CA: So all the technologists
+that I talk to really credit you with massively changing their work. And it's not just Linux, it's this thing called Git, which is this management system
+for software development. Tell us briefly about that
+and your role in that. LT: So one of the issues we had, and this took a while to start to appear, is when you ... When you grow from having 10 people
+or 100 people working on a project to having 10,000 people, which -- I mean, right now we're in the situation
+where just on the kernel, we have 1,000 people involved
+in every single release and that's every two months,
+roughly two or three months. Some of those people don't do a lot. There's a lot of people
+who make small, small changes. But to maintain this, the scale changes how
+you have to maintain it. And we went through a lot of pain. And there are whole projects
+that do only source-code maintenance. CVS is the one that used to be
+the most commonly used, and I hated CVS with a passion
+and refused to touch it and tried something else
+that was radical and interesting and everybody else hated. CA: (Laughs) LT: And we were in this bad spot, where we had thousands of people
+who wanted to participate, but in many ways,
+I was the kind of break point, where I could not scale to the point where I could work
+with thousands of people. So Git is my second big project, which was only created for me
+to maintain my first big project. And this is literally how I work. I don't code for -- well, I do code for fun -- but I want to code
+for something meaningful so every single project I've ever done
+has been something I needed and -- CA: So really, both Linux
+and Git kind of arose almost as an unintended consequence of your desire not to have
+to work with too many people. LT: Absolutely. Yes. (Laughter) CA: That's amazing.
+LT: Yeah. (Applause) And yet, you're the man
+who's transformed technology not just once but twice, and we have to try
+and understand why it is. You've given us some clues, but ... Here's a picture of you as a kid,
+with a Rubik's Cube. You mentioned that you've been
+programming since you were like 10 or 11, half your life. 

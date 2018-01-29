@@ -1,0 +1,24 @@
+The Earth needs no introduction. It needs no introduction in part 
+because the Apollo 17 astronauts, when they were hurtling 
+around the moon in 1972, took this iconic image. It galvanized a whole 
+generation of human beings to realize that we're on 
+Spaceship Earth, fragile and finite as it is,
+ and that we need 
+to take care of it. But while this picture
+is beautiful, it's static, and the Earth is constantly changing. It's changing on days' time
+scales with human activity. And the satellite imagery we 
+have of it today is old. Typically, years old. And that's important because
+you can't fix what you can't see. What we'd ideally want is images
+of the whole planet every day. So, what's standing in our way? What's the problem? This is the problem: Satellites are big, expensive 
+and they're slow. This one weighs three tons. It's six meters tall, four meters wide. It took up the entire fairing
+of a rocket just to launch it. One satellite, one rocket. It cost 855 million dollars. Satellites like these have 
+done an amazing job at helping us to understand our planet. But if we want to understand 
+it much more regularly, we need lots of satellites, and this model isn't scalable. So me and my friends, 
+we started Planet Labs to make satellites ultra-compact
+ and small and highly capable. I'm going to show you what 
+our satellite looks like: This is our satellite. This is not a scale model,
+ this is the real size. It's 10 by 10 by 30 centimeters, it weighs four kilograms, and we've stuffed the latest 
+and greatest electronics and sensor systems into 
+this little package so that even though this is really small, this can take pictures 10 times the
+resolution of the big satellite here, even though it weighs one 
+thousandth of the mass. 

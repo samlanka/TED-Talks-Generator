@@ -1,0 +1,27 @@
+So, I lead a team at Google
+that works on machine intelligence; in other words, the engineering discipline
+of making computers and devices able to do some of the things
+that brains do. And this makes us
+interested in real brains and neuroscience as well, and especially interested
+in the things that our brains do that are still far superior
+to the performance of computers. Historically, one of those areas
+has been perception, the process by which things
+out there in the world -- sounds and images -- can turn into concepts in the mind. This is essential for our own brains, and it's also pretty useful on a computer. The machine perception algorithms,
+for example, that our team makes, are what enable your pictures
+on Google Photos to become searchable, based on what's in them. The flip side of perception is creativity: turning a concept into something
+out there into the world. So over the past year,
+our work on machine perception has also unexpectedly connected
+with the world of machine creativity and machine art. I think Michelangelo
+had a penetrating insight into to this dual relationship
+between perception and creativity. This is a famous quote of his: "Every block of stone
+has a statue inside of it, and the job of the sculptor
+is to discover it." So I think that what
+Michelangelo was getting at is that we create by perceiving, and that perception itself
+is an act of imagination and is the stuff of creativity. The organ that does all the thinking
+and perceiving and imagining, of course, is the brain. And I'd like to begin
+with a brief bit of history about what we know about brains. Because unlike, say,
+the heart or the intestines, you really can't say very much
+about a brain by just looking at it, at least with the naked eye. The early anatomists who looked at brains gave the superficial structures
+of this thing all kinds of fanciful names, like hippocampus, meaning "little shrimp." But of course that sort of thing
+doesn't tell us very much about what's actually going on inside. The first person who, I think, really
+developed some kind of insight into what was going on in the brain 

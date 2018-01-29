@@ -1,0 +1,9 @@
+This is a work in process, based on some comments
+that were made at TED two years ago about the need for the storage of vaccine. (Video): [On this planet 1.6 billion people don't have access to electricity refrigeration or stored fuels this is a problem it impacts: the spread of disease the storage of food and medicine and the quality of life. So here's the plan ...
+inexpensive refrigeration that doesn't use electricity,
+propane, gas, kerosene or consumables time for some thermodynamics And the story of the Intermittent
+Absorption Refrigerator] Adam Grosser: So 29 years ago,
+I had this thermo teacher who talked about absorption
+and refrigeration, one of those things that stuck in my head, a lot
+like the Stirling engine: it was cool, but you didn't know
+what to do with it. 

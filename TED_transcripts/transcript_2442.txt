@@ -1,0 +1,114 @@
+Algorithms are everywhere. They sort and separate
+the winners from the losers. The winners get the job or a good credit card offer. The losers don't even get an interview or they pay more for insurance. We're being scored with secret formulas
+that we don't understand that often don't have systems of appeal. That begs the question: What if the algorithms are wrong? To build an algorithm you need two things: you need data, what happened in the past, and a definition of success, the thing you're looking for
+and often hoping for. You train an algorithm
+by looking, figuring out. The algorithm figures out
+what is associated with success. What situation leads to success? Actually, everyone uses algorithms. They just don't formalize them
+in written code. Let me give you an example. I use an algorithm every day
+to make a meal for my family. The data I use is the ingredients in my kitchen, the time I have, the ambition I have, and I curate that data. I don't count those little packages
+of ramen noodles as food. (Laughter) My definition of success is: a meal is successful
+if my kids eat vegetables. It's very different
+from if my youngest son were in charge. He'd say success is if
+he gets to eat lots of Nutella. But I get to choose success. I am in charge. My opinion matters. That's the first rule of algorithms. Algorithms are opinions embedded in code. It's really different from what you think
+most people think of algorithms. They think algorithms are objective
+and true and scientific. That's a marketing trick. It's also a marketing trick to intimidate you with algorithms, to make you trust and fear algorithms because you trust and fear mathematics. A lot can go wrong when we put
+blind faith in big data. This is Kiri Soares.
+She's a high school principal in Brooklyn. In 2011, she told me
+her teachers were being scored with a complex, secret algorithm called the "value-added model." I told her, "Well, figure out
+what the formula is, show it to me. I'm going to explain it to you." She said, "Well, I tried
+to get the formula, but my Department of Education contact
+told me it was math and I wouldn't understand it." It gets worse. The New York Post filed
+a Freedom of Information Act request, got all the teachers' names
+and all their scores and they published them
+as an act of teacher-shaming. When I tried to get the formulas,
+the source code, through the same means, I was told I couldn't. I was denied. I later found out that nobody in New York City
+had access to that formula. No one understood it. Then someone really smart
+got involved, Gary Rubinstein. He found 665 teachers
+from that New York Post data that actually had two scores. That could happen if they were teaching seventh grade math and eighth grade math. He decided to plot them. Each dot represents a teacher. (Laughter) What is that? (Laughter) That should never have been used
+for individual assessment. It's almost a random number generator. (Applause) But it was. This is Sarah Wysocki. She got fired, along
+with 205 other teachers, from the Washington, DC school district, even though she had great
+recommendations from her principal and the parents of her kids. I know what a lot
+of you guys are thinking, especially the data scientists,
+the AI experts here. You're thinking, "Well, I would never make
+an algorithm that inconsistent." But algorithms can go wrong, even have deeply destructive effects
+with good intentions. And whereas an airplane
+that's designed badly crashes to the earth and everyone sees it, an algorithm designed badly can go on for a long time,
+silently wreaking havoc. This is Roger Ailes. (Laughter) He founded Fox News in 1996. More than 20 women complained
+about sexual harassment. They said they weren't allowed
+to succeed at Fox News. He was ousted last year,
+but we've seen recently that the problems have persisted. That begs the question: What should Fox News do
+to turn over another leaf? Well, what if they replaced
+their hiring process with a machine-learning algorithm? That sounds good, right? Think about it. The data, what would the data be? A reasonable choice would be the last
+21 years of applications to Fox News. Reasonable. What about the definition of success? Reasonable choice would be, well, who is successful at Fox News? I guess someone who, say,
+stayed there for four years and was promoted at least once. Sounds reasonable. And then the algorithm would be trained. It would be trained to look for people
+to learn what led to success, what kind of applications
+historically led to success by that definition. Now think about what would happen if we applied that
+to a current pool of applicants. It would filter out women because they do not look like people
+who were successful in the past. Algorithms don't make things fair if you just blithely,
+blindly apply algorithms. They don't make things fair. They repeat our past practices, our patterns. They automate the status quo. That would be great
+if we had a perfect world, but we don't. And I'll add that most companies
+don't have embarrassing lawsuits, but the data scientists in those companies are told to follow the data, to focus on accuracy. Think about what that means. Because we all have bias,
+it means they could be codifying sexism or any other kind of bigotry. Thought experiment, because I like them: an entirely segregated society -- racially segregated, all towns,
+all neighborhoods and where we send the police
+only to the minority neighborhoods to look for crime. The arrest data would be very biased. What if, on top of that,
+we found the data scientists and paid the data scientists to predict
+where the next crime would occur? Minority neighborhood. Or to predict who the next
+criminal would be? A minority. The data scientists would brag
+about how great and how accurate their model would be, and they'd be right. Now, reality isn't that drastic,
+but we do have severe segregations in many cities and towns, and we have plenty of evidence of biased policing
+and justice system data. And we actually do predict hotspots, places where crimes will occur. And we do predict, in fact,
+the individual criminality, the criminality of individuals. The news organization ProPublica
+recently looked into one of those "recidivism risk" algorithms, as they're called, being used in Florida
+during sentencing by judges. Bernard, on the left, the black man,
+was scored a 10 out of 10. Dylan, on the right, 3 out of 10. 10 out of 10, high risk.
+3 out of 10, low risk. They were both brought in
+for drug possession. They both had records, but Dylan had a felony but Bernard didn't. This matters, because
+the higher score you are, the more likely you're being given
+a longer sentence. What's going on? Data laundering. It's a process by which
+technologists hide ugly truths inside black box algorithms and call them objective; call them meritocratic. When they're secret,
+important and destructive, I've coined a term for these algorithms: "weapons of math destruction." (Laughter) (Applause) They're everywhere,
+and it's not a mistake. These are private companies
+building private algorithms for private ends. Even the ones I talked about
+for teachers and the public police, those were built by private companies and sold to the government institutions. They call it their "secret sauce" -- that's why they can't tell us about it. It's also private power. They are profiting for wielding
+the authority of the inscrutable. Now you might think,
+since all this stuff is private and there's competition, maybe the free market
+will solve this problem. It won't. There's a lot of money
+to be made in unfairness. Also, we're not economic rational agents. We all are biased. We're all racist and bigoted
+in ways that we wish we weren't, in ways that we don't even know. We know this, though, in aggregate, because sociologists
+have consistently demonstrated this with these experiments they build, where they send a bunch
+of applications to jobs out, equally qualified but some
+have white-sounding names and some have black-sounding names, and it's always disappointing,
+the results -- always. So we are the ones that are biased, and we are injecting those biases
+into the algorithms by choosing what data to collect, like I chose not to think
+about ramen noodles -- I decided it was irrelevant. But by trusting the data that's actually
+picking up on past practices and by choosing the definition of success, how can we expect the algorithms
+to emerge unscathed? We can't. We have to check them. We have to check them for fairness. The good news is,
+we can check them for fairness. Algorithms can be interrogated, and they will tell us
+the truth every time. And we can fix them.
+We can make them better. I call this an algorithmic audit, and I'll walk you through it. First, data integrity check. For the recidivism risk
+algorithm I talked about, a data integrity check would mean
+we'd have to come to terms with the fact that in the US, whites and blacks
+smoke pot at the same rate but blacks are far more likely
+to be arrested -- four or five times more likely,
+depending on the area. What is that bias looking like
+in other crime categories, and how do we account for it? Second, we should think about
+the definition of success, audit that. Remember -- with the hiring
+algorithm? We talked about it. Someone who stays for four years
+and is promoted once? Well, that is a successful employee, but it's also an employee
+that is supported by their culture. That said, also it can be quite biased. We need to separate those two things. We should look to
+the blind orchestra audition as an example. That's where the people auditioning
+are behind a sheet. What I want to think about there is the people who are listening
+have decided what's important and they've decided what's not important, and they're not getting
+distracted by that. When the blind orchestra
+auditions started, the number of women in orchestras
+went up by a factor of five. Next, we have to consider accuracy. This is where the value-added model
+for teachers would fail immediately. No algorithm is perfect, of course, so we have to consider
+the errors of every algorithm. How often are there errors,
+and for whom does this model fail? What is the cost of that failure? And finally, we have to consider the long-term effects of algorithms, the feedback loops that are engendering. That sounds abstract, but imagine if Facebook engineers
+had considered that before they decided to show us
+only things that our friends had posted. I have two more messages,
+one for the data scientists out there. Data scientists: we should
+not be the arbiters of truth. We should be translators
+of ethical discussions that happen in larger society. (Applause) And the rest of you, the non-data scientists: this is not a math test. This is a political fight. We need to demand accountability
+for our algorithmic overlords. (Applause) The era of blind faith
+in big data must end. Thank you very much. (Applause) 

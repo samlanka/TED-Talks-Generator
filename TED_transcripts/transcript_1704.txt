@@ -1,0 +1,5 @@
+This is a lot of ones and zeros. It's what we call binary information. This is how computers talk. It's how they store information. It's how computers think. It's how computers do everything it is that computers do. I'm a cybersecurity researcher, which means my job is to sit
+down with this information and try to make sense of it, to try to understand what all
+the ones and zeroes mean. Unfortunately for me, we're not just talking about the ones and zeros
+I have on the screen here. We're not just talking about a
+few pages of ones and zeros. We're talking about billions and billions of ones and zeros, more than anyone could possibly comprehend. Now, as exciting as that sounds, 

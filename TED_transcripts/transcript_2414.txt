@@ -1,0 +1,31 @@
+In ancient Greece, when anyone from slaves to soldiers,
+poets and politicians, needed to make a big decision
+on life's most important questions, like, "Should I get married?" or "Should we embark on this voyage?" or "Should our army
+advance into this territory?" they all consulted the oracle. So this is how it worked: you would bring her a question
+and you would get on your knees, and then she would go into this trance. It would take a couple of days, and then eventually
+she would come out of it, giving you her predictions as your answer. From the oracle bones of ancient China to ancient Greece to Mayan calendars, people have craved for prophecy in order to find out
+what's going to happen next. And that's because we all want
+to make the right decision. We don't want to miss something. The future is scary, so it's much nicer
+knowing that we can make a decision with some assurance of the outcome. Well, we have a new oracle, and it's name is big data, or we call it "Watson"
+or "deep learning" or "neural net." And these are the kinds of questions
+we ask of our oracle now, like, "What's the most efficient way
+to ship these phones from China to Sweden?" Or, "What are the odds of my child being born
+with a genetic disorder?" Or, "What are the sales volume
+we can predict for this product?" I have a dog. Her name is Elle,
+and she hates the rain. And I have tried everything
+to untrain her. But because I have failed at this, I also have to consult
+an oracle, called Dark Sky, every time before we go on a walk, for very accurate weather predictions
+in the next 10 minutes. She's so sweet. So because of all of this,
+our oracle is a $122 billion industry. Now, despite the size of this industry, the returns are surprisingly low. Investing in big data is easy, but using it is hard. Over 73 percent of big data projects
+aren't even profitable, and I have executives
+coming up to me saying, "We're experiencing the same thing. We invested in some big data system, and our employees aren't making
+better decisions. And they're certainly not coming up
+with more breakthrough ideas." So this is all really interesting to me, because I'm a technology ethnographer. I study and I advise companies on the patterns
+of how people use technology, and one of my interest areas is data. So why is having more data
+not helping us make better decisions, especially for companies
+who have all these resources to invest in these big data systems? Why isn't it getting any easier for them? So, I've witnessed the struggle firsthand. In 2009, I started
+a research position with Nokia. And at the time, Nokia was one of the largest
+cell phone companies in the world, dominating emerging markets
+like China, Mexico and India -- all places where I had done
+a lot of research on how low-income people use technology. And I spent a lot of extra time in China getting to know the informal economy. So I did things like working
+as a street vendor selling dumplings to construction workers. Or I did fieldwork, 

@@ -1,0 +1,41 @@
+Today I'm going to talk
+about technology and society. The Department of Transport
+estimated that last year 35,000 people died
+from traffic crashes in the US alone. Worldwide, 1.2 million people
+die every year in traffic accidents. If there was a way we could eliminate
+90 percent of those accidents, would you support it? Of course you would. This is what driverless car technology
+promises to achieve by eliminating the main
+source of accidents -- human error. Now picture yourself
+in a driverless car in the year 2030, sitting back and watching
+this vintage TEDxCambridge video. (Laughter) All of a sudden, the car experiences mechanical failure
+and is unable to stop. If the car continues, it will crash into a bunch
+of pedestrians crossing the street, but the car may swerve, hitting one bystander, killing them to save the pedestrians. What should the car do,
+and who should decide? What if instead the car
+could swerve into a wall, crashing and killing you, the passenger, in order to save those pedestrians? This scenario is inspired
+by the trolley problem, which was invented
+by philosophers a few decades ago to think about ethics. Now, the way we think
+about this problem matters. We may for example
+not think about it at all. We may say this scenario is unrealistic, incredibly unlikely, or just silly. But I think this criticism
+misses the point because it takes
+the scenario too literally. Of course no accident
+is going to look like this; no accident has two or three options where everybody dies somehow. Instead, the car is going
+to calculate something like the probability of hitting
+a certain group of people, if you swerve one direction
+versus another direction, you might slightly increase the risk
+to passengers or other drivers versus pedestrians. It's going to be
+a more complex calculation, but it's still going
+to involve trade-offs, and trade-offs often require ethics. We might say then,
+"Well, let's not worry about this. Let's wait until technology
+is fully ready and 100 percent safe." Suppose that we can indeed
+eliminate 90 percent of those accidents, or even 99 percent in the next 10 years. What if eliminating
+the last one percent of accidents requires 50 more years of research? Should we not adopt the technology? That's 60 million people
+dead in car accidents if we maintain the current rate. So the point is, waiting for full safety is also a choice, and it also involves trade-offs. People online on social media
+have been coming up with all sorts of ways to not think about this problem. One person suggested
+the car should just swerve somehow in between the passengers -- (Laughter) and the bystander. Of course if that's what the car can do,
+that's what the car should do. We're interested in scenarios
+in which this is not possible. And my personal favorite
+was a suggestion by a blogger to have an eject button in the car
+that you press -- (Laughter) just before the car self-destructs. (Laughter) So if we acknowledge that cars
+will have to make trade-offs on the road, how do we think about those trade-offs, and how do we decide? Well, maybe we should run a survey
+to find out what society wants, because ultimately, regulations and the law
+are a reflection of societal values. So this is what we did. With my collaborators, 

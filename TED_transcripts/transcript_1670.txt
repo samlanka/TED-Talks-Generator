@@ -1,0 +1,2 @@
+I study ants in the desert, in the tropical forest and in my kitchen, and in the hills around Silicon Valley where I live. I've recently realized that ants are using interactions differently in different environments, and that got me thinking
+that we could learn from this about other systems, like brains and data networks that we engineer, and even cancer. So what all these systems have in common is that there's no central control. An ant colony consists of sterile female workers -- 

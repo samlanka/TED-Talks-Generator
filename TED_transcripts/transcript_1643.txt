@@ -1,0 +1,1 @@
+So a chip, a poet and a boy. It's just about 20 years ago, June 1994, when Intel announced that there was a flaw at the core of their Pentium chip. Deep in the code of the SRT algorithm to calculate intermediate quotients necessary for iterative floating points of divisions -- 

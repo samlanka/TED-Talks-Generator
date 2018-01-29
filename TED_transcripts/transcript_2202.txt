@@ -1,0 +1,137 @@
+I'm here today to talk about
+the two ideas that, at least based on
+my observations at Khan Academy, are kind of the core,
+or the key leverage points for learning. And it's the idea of mastery and the idea of mindset. I saw this in the early days
+working with my cousins. A lot of them were having trouble
+with math at first, because they had all of these gaps
+accumulated in their learning. And because of that, at some point
+they got to an algebra class and they might have been a little bit
+shaky on some of the pre-algebra, and because of that, they thought
+they didn't have the math gene. Or they'd get to a calculus class, and they'd be a little bit
+shaky on the algebra. I saw it in the early days when I was uploading
+some of those videos on YouTube, and I realized that people
+who were not my cousins were watching. (Laughter) And at first, those comments
+were just simple thank-yous. I thought that was a pretty big deal. I don't know how much time
+you all spend on YouTube. Most of the comments are not "Thank you." (Laughter) They're a little edgier than that. But then the comments
+got a little more intense, student after student saying
+that they had grown up not liking math. It was getting difficult as they got
+into more advanced math topics. By the time they got to algebra, they had so many gaps in their knowledge
+they couldn't engage with it. They thought they didn't
+have the math gene. But when they were a bit older, they took a little agency
+and decided to engage. They found resources like Khan Academy and they were able to fill in those gaps
+and master those concepts, and that reinforced their mindset
+that it wasn't fixed; that they actually were capable
+of learning mathematics. And in a lot of ways, this is how
+you would master a lot of things in life. It's the way you would
+learn a martial art. In a martial art, you would
+practice the white belt skills as long as necessary, and only when you've mastered it you would move on to become a yellow belt. It's the way you learn
+a musical instrument: you practice the basic piece
+over and over again, and only when you've mastered it, you go on to the more advanced one. But what we point out -- this is not the way a traditional
+academic model is structured, the type of academic model
+that most of us grew up in. In a traditional academic model, we group students together,
+usually by age, and around middle school, by age and perceived ability, and we shepherd them all
+together at the same pace. And what typically happens, let's say we're in a middle school
+pre-algebra class, and the current unit is on exponents, the teacher will give
+a lecture on exponents, then we'll go home, do some homework. The next morning,
+we'll review the homework, then another lecture, homework,
+lecture, homework. That will continue for about
+two or three weeks, and then we get a test. On that test, maybe I get a 75 percent, maybe you get a 90 percent, maybe you get a 95 percent. And even though the test identified
+gaps in our knowledge, I didn't know 25 percent of the material. Even the A student, what was
+the five percent they didn't know? Even though we've identified the gaps, the whole class will then
+move on to the next subject, probably a more advanced subject
+that's going to build on those gaps. It might be logarithms
+or negative exponents. And that process continues,
+and you immediately start to realize how strange this is. I didn't know 25 percent
+of the more foundational thing, and now I'm being pushed
+to the more advanced thing. And this will continue for months, years,
+all the way until at some point, I might be in an algebra class
+or trigonometry class and I hit a wall. And it's not because algebra
+is fundamentally difficult or because the student isn't bright. It's because I'm seeing an equation
+and they're dealing with exponents and that 30 percent
+that I didn't know is showing up. And then I start to disengage. To appreciate how absurd that is, imagine if we did other things
+in our life that way. Say, home-building. (Laughter) So we bring in the contractor and say, "We were told we have
+two weeks to build a foundation. Do what you can." (Laughter) So they do what they can. Maybe it rains. Maybe some of the supplies don't show up. And two weeks later,
+the inspector comes, looks around, says, "OK, the concrete
+is still wet right over there, that part's not quite up to code ... I'll give it an 80 percent." (Laughter) You say, "Great! That's a C.
+Let's build the first floor." (Laughter) Same thing. We have two weeks, do what you can,
+inspector shows up, it's a 75 percent. Great, that's a D-plus. Second floor, third floor, and all of a sudden,
+while you're building the third floor, the whole structure collapses. And if your reaction is the reaction
+you typically have in education, or that a lot of folks have, you might say, maybe
+we had a bad contractor, or maybe we needed better inspection
+or more frequent inspection. But what was really broken
+was the process. We were artificially constraining
+how long we had to something, pretty much ensuring a variable outcome, and we took the trouble of inspecting
+and identifying those gaps, but then we built right on top of it. So the idea of mastery learning
+is to do the exact opposite. Instead of artificially
+constraining, fixing when and how long you work on something, pretty much ensuring
+that variable outcome, the A, B, C, D, F -- do it the other way around. What's variable is when and how long a student actually has
+to work on something, and what's fixed is that
+they actually master the material. And it's important to realize that not only will this make the student
+learn their exponents better, but it'll reinforce
+the right mindset muscles. It makes them realize that if you got
+20 percent wrong on something, it doesn't mean that you have
+a C branded in your DNA somehow. It means that you should just
+keep working on it. You should have grit;
+you should have perseverance; you should take agency over your learning. Now, a lot of skeptics might say,
+well, hey, this is all great, philosophically, this whole idea
+of mastery-based learning and its connection to mindset, students taking agency
+over their learning. It makes a lot of sense,
+but it seems impractical. To actually do it, every student
+would be on their own track. It would have to be personalized, you'd have to have private tutors
+and worksheets for every student. And these aren't new ideas -- there were experiments
+in Winnetka, Illinois, 100 years ago, where they did mastery-based learning
+and saw great results, but they said it wouldn't scale
+because it was logistically difficult. The teacher had to give different
+worksheets to every student, give on-demand assessments. But now today, it's no longer impractical. We have the tools to do it. Students see an explanation
+at their own time and pace? There's on-demand video for that. They need practice? They need feedback? There's adaptive exercises
+readily available for students. And when that happens,
+all sorts of neat things happen. One, the students can actually
+master the concepts, but they're also building
+their growth mindset, they're building grit, perseverance, they're taking agency over their learning. And all sorts of beautiful things
+can start to happen in the actual classroom. Instead of it being focused
+on the lecture, students can interact with each other. They can get deeper mastery
+over the material. They can go into simulations,
+Socratic dialogue. To appreciate what we're talking about and the tragedy of lost potential here, I'd like to give a little bit
+of a thought experiment. If we were to go 400 years
+into the past to Western Europe, which even then, was one of the more
+literate parts of the planet, you would see that about 15 percent
+of the population knew how to read. And I suspect that if you asked someone
+who did know how to read, say a member of the clergy, "What percentage of the population
+do you think is even capable of reading?" They might say, "Well,
+with a great education system, maybe 20 or 30 percent." But if you fast forward to today, we know that that prediction
+would have been wildly pessimistic, that pretty close to 100 percent
+of the population is capable of reading. But if I were to ask you
+a similar question: "What percentage of the population
+do you think is capable of truly mastering calculus, or understanding organic chemistry, or being able to contribute
+to cancer research?" A lot of you might say, "Well,
+with a great education system, maybe 20, 30 percent." But what if that estimate is just based on your own experience
+in a non-mastery framework, your own experience with yourself
+or observing your peers, where you're being pushed
+at this set pace through classes, accumulating all these gaps? Even when you got that 95 percent, what was that five percent you missed? And it keeps accumulating --
+you get to an advanced class, all of a sudden you hit a wall and say, "I'm not meant to be a cancer researcher; not meant to be a physicist;
+not meant to be a mathematician." I suspect that that actually is the case, but if you were allowed to be operating
+in a mastery framework, if you were allowed to really
+take agency over your learning, and when you get something wrong, embrace it -- view that failure
+as a moment of learning -- that number, the percent
+that could really master calculus or understand organic chemistry, is actually a lot closer to 100 percent. And this isn't even just a "nice to have." I think it's a social imperative. We're exiting what you could call
+the industrial age and we're going into
+this information revolution. And it's clear that some
+things are happening. In the industrial age,
+society was a pyramid. At the base of the pyramid,
+you needed human labor. In the middle of the pyramid,
+you had an information processing, a bureaucracy class, and at the top of the pyramid,
+you had your owners of capital and your entrepreneurs and your creative class. But we know what's happening already, as we go into this information revolution. The bottom of that pyramid,
+automation, is going to take over. Even that middle tier,
+information processing, that's what computers are good at. So as a society, we have a question: All this new productivity is happening
+because of this technology, but who participates in it? Is it just going to be that very top
+of the pyramid, in which case, what does everyone else do? How do they operate? Or do we do something
+that's more aspirational? Do we actually attempt
+to invert the pyramid, where you have a large creative class, where almost everyone
+can participate as an entrepreneur, an artist, as a researcher? And I don't think that this is utopian. I really think that this
+is all based on the idea that if we let people
+tap into their potential by mastering concepts, by being able to exercise agency
+over their learning, that they can get there. And when you think of it
+as just a citizen of the world, it's pretty exciting. I mean, think about
+the type of equity we can we have, and the rate at which civilization
+could even progress. And so, I'm pretty optimistic about it. I think it's going to be
+a pretty exciting time to be alive. Thank you. (Applause) 

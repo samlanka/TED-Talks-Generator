@@ -1,0 +1,87 @@
+I thought I would start
+with a very brief history of cities. Settlements typically began
+with people clustered around a well, and the size of that settlement
+was roughly the distance you could walk with a pot of water on your head. In fact, if you fly
+over Germany, for example, and you look down and you see
+these hundreds of little villages, they're all about a mile apart. You needed easy access to the fields. And for hundreds, even thousands of years, the home was really the center of life. Life was very small for most people. It was a center of entertainment,
+of energy production, of work, a center of health care. That's where babies were born
+and people died. Then, with industrialization,
+everything started to become centralized. You had dirty factories that were moved
+to the outskirts of cities. Production was centralized
+in assembly plants. You had centralized energy production. Learning took place in schools. Health care took place in hospitals. And then you had networks that developed. You had water, sewer networks that allowed for this
+kind of unchecked expansion. You had separated functions, increasingly. You had rail networks that connected residential,
+industrial, commercial areas. You had auto networks. In fact, the model was really,
+give everybody a car, build roads to everything, and give people a place to park
+when they get there. It was not a very functional model. And we still live in that world, and this is what we end up with. So you have the sprawl of LA, the sprawl of Mexico City. You have these unbelievable
+new cities in China, which you might call tower sprawl. They're all building cities on the model that we invented
+in the '50s and '60s, which is really obsolete, I would argue, and there are hundreds
+and hundreds of new cities that are being planned all over the world. In China alone, 300 million people,
+some say 400 million people, will move to the city
+over the next 15 years. That means building the equivalent of the entire built infrastructure
+of the US in 15 years. Imagine that. And we should all care about this
+whether you live in cities or not. Cities will account for 90 percent
+of the population growth, 80 percent of the global CO2,
+75 percent of energy use, but at the same time
+it's where people want to be, increasingly. More than half the people
+now in the world live in cities, and that will just continue to escalate. Cities are places of celebration,
+personal expression. You have the flash mobs
+of pillow fights that -- I've been to a couple. They're quite fun. You have -- (Laughter) Cities are where most
+of the wealth is created, and particularly in the developing world,
+it's where women find opportunities. That's a lot of the reason
+why cities are growing very quickly. Now there's some trends
+that will impact cities. First of all, work is becoming
+distributed and mobile. The office building is basically obsolete
+for doing private work. The home, once again,
+because of distributed computation -- Communication is becoming
+a center of life, so it's a center of production
+and learning and shopping and health care and all of these things
+that we used to think of as taking place outside of the home. And increasingly,
+everything that people buy, every consumer product, in one way or another,
+can be personalized. And that's a very important
+trend to think about. So this is my image
+of the city of the future. (Laughter) In that it's a place for people, you know. Maybe not the way people dress, but -- You know, the question now is, how can we have all the good things
+that we identify with cities without all the bad things? This is Bangalore. It took me a couple of hours
+to get a few miles in Bangalore last year. So with cities, you also have
+congestion and pollution and disease and all these negative things. How can we have the good stuff
+without the bad? So we went back and started looking
+at the great cities that evolved before the cars. Paris was a series of these
+little villages that came together, and you still see that structure today. The 20 arrondissements of Paris
+are these little neighborhoods. Most of what people need in life
+can be within a five- or 10-minute walk. And if you look at the data,
+when you have that kind of a structure, you get a very even distribution of the shops and the physicians
+and the pharmacies and the cafes in Paris. And then you look at cities
+that evolved after the automobile, and it's not that kind of a pattern. There's very little
+that's within a five-minute walk of most areas of places like Pittsburgh. Not to pick on Pittsburgh, but most American cities
+really have evolved this way. So we said, well,
+let's look at new cities, and we're involved in a couple
+of new city projects in China. So we said, let's start
+with that neighborhood cell. We think of it as a compact urban cell. So provide most of what most people want
+within that 20-minute walk. This can also be
+a resilient electrical microgrid, community heating, power,
+communication networks, etc. can be concentrated there. Stewart Brand would put
+a micronuclear reactor right in the center, probably. And he might be right. And then we can form,
+in effect, a mesh network. It's something of an Internet
+typology pattern, so you can have a series
+of these neighborhoods. You can dial up the density -- about 20,000 people per cell,
+if it's Cambridge. Go up to 50,000 if it's Manhattan density. You connect everything with mass transit and you provide most of what most people
+need within that neighborhood. You can begin to develop
+a whole typology of streetscapes and the vehicles that can go on them. I won't go through all of them.
+I'll just show one. This is Boulder. It's a great example
+of kind of a mobility parkway, a superhighway for joggers and bicyclists, where you can go from one end
+of the city to the other without crossing the street, and they also have bike-sharing,
+which I'll get into in a minute. This is even a more interesting solution in Seoul, Korea. They took the elevated highway,
+they got rid of it, they reclaimed the street,
+the river down below, below the street, and you can go from one end
+of Seoul to the other without crossing a pathway for cars. The High Line in Manhattan
+is very similar. You have these rapidly emerging
+bike lanes all over the world. I lived in Manhattan for 15 years. I went back a couple of weekends ago, took this photograph of these fabulous
+new bike lanes that they have installed. They're still not to where Copenhagen is, where something like 42 percent
+of the trips within the city are by bicycle. It's mostly just because they have
+fantastic infrastructure there. We actually did exactly
+the wrong thing in Boston. The Big Dig -- (Laughter) So we got rid of the highway
+but we created a traffic island, and it's certainly not a mobility pathway
+for anything other than cars. Mobility on demand is something
+we've been thinking about, so we think we need an ecosystem
+of these shared-use vehicles connected to mass transit. These are some of the vehicles
+that we've been working on. But shared use is really key. If you share a vehicle, you can have
+at least four people use one vehicle, as opposed to one. 

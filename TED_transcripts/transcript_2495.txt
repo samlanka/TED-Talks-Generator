@@ -1,0 +1,80 @@
+When was I was 21 years old, I had all this physics homework. Physics homework requires taking breaks, and Wikipedia was relatively new,
+so I took a lot of breaks there. I kept going back to the same articles, reading them again and again, on glaciers, Antarctica and Greenland. How cool would it be to visit these places and what would it take to do so? Well, here we are on a repurposed Air Force cargo plane operated by NASA flying over the Greenland ice sheet. There's a lot to see here, but there's more that is hidden, waiting to be uncovered. What the Wikipedia articles didn't tell me is that there's liquid water
+hidden inside the ice sheet, because we didn't know that yet. I did learn on Wikipedia
+that the Greenland ice sheet is huge, the size of Mexico, and its ice from top to bottom
+is two miles thick. But it's not just static. The ice flows like a river
+downhill towards the ocean. As it flows around bends, it deforms and cracks. I get to study these amazing ice dynamics, which are located in one of the most
+remote physical environments remaining on earth. To work in glaciology right now
+is like getting in on the ground floor at Facebook in the 2000s. (Laughter) Our capability to fly airplanes
+and satellites over the ice sheets is revolutionizing glaciology. It's just starting to do for science what the smartphone
+has done for social media. The satellites are reporting
+a wealth of observations that are revealing new hidden facts
+about the ice sheets continuously. For instance, we have observations
+of the size of the Greenland ice sheet every month going back to 2002. You can look towards the bottom
+of the screen here to see the month and the year go forward. You can see that some areas
+of the ice sheet melt or lose ice in the summer. Other areas experience snowfall or gain ice back in the winter. This seasonal cycle, though, is eclipsed
+by an overall rate of mass loss that would have stunned
+a glaciologist 50 years ago. We never thought that an ice sheet could
+lose mass into the ocean this quickly. Since these measurements began in 2002, the ice sheet has lost so much ice that if that water were piled up
+on our smallest continent, it would drown Australia knee-deep. How is this possible? Well, under the ice lies the bedrock. We used radar to image the hills,
+valleys, mountains and depressions that the ice flows over. Hidden under the ice sheet are channels
+the size of the Grand Canyon that funnel ice and water
+off of Greenland and into the ocean. The reason that radar
+can reveal the bedrock is that ice is entirely
+transparent to radar. You can do an experiment. Go home and put
+an ice cube in the microwave. It won't melt, because microwaves, or radar, pass straight through the ice
+without interacting. If you want to melt your ice cube,
+you have to get it wet, because water heats up easily
+in the microwave. That's the whole principle
+the microwave oven is designed around. Radar can see water. And radar has revealed
+a vast pool of liquid water hidden under my colleague Olivia, seven stories beneath her feet. Here, she's used a pump to bring some of that water
+back to the ice sheet's surface. Just six years ago, we had no idea
+this glacier aquifer existed. The aquifer formed when snow melts in the summer sun and trickles downward. It puddles up in huge pools. From there, the snow acts as an igloo, insulating this water
+from the cold and the wind above. So the water can stay
+hidden in the ice sheet in liquid form year after year. The question is, what happens next? Does the water stay there forever? It could. Or does it find a way out
+to reach the global ocean? One possible way
+for the water to reach the bedrock and from there the ocean is a crevasse, or a crack in the ice. When cracks fill with water, the weight of the water
+forces them deeper and deeper. This is how fracking works to extract natural gas
+from deep within the earth. Pressurized fluids fracture rocks. All it takes is a crack to get started. Well, we recently discovered that there are cracks available
+in the Greenland ice sheet near this glacier aquifer. You can fly over
+most of the Greenland ice sheet and see nothing, no cracks, no features on the surface, but as this helicopter
+flies towards the coast, the path that water would take
+on its quest to flow downhill, one crack appears, then another and another. Are these cracks filled with liquid water? And if so, how deep
+do they take that water? Can they take it to the bedrock and the ocean? To answer these questions, we need something
+beyond remote sensing data. We need numeric models. I write numeric models
+that run on supercomputers. A numeric model
+is simply a set of equations that works together to describe something. It can be as simple
+as the next number in a sequence -- one, three, five, seven -- or it can be a more complex
+set of equations that predict the future based on known conditions in the present. In our case, what are
+the equations for how ice cracks? Well, engineers already have
+a very good understanding of how aluminum, steel and plastics
+fracture under stress. It's an important problem in our society. And it turns out
+that the engineering equations for how materials fracture are not that different
+from my physics homework. So I borrowed them, adapted them for ice, and then I had a numeric model
+for how a crevasse can fracture when filled with water from the aquifer. This is the power of math. It can help us understand
+real processes in our world. I'll show you now
+the results of my numeric model, but first I should point out that the crevasse is about
+a thousand times narrower than it is deep, so in the main panel here, we've zoomed in to better see the details. You can look to the smaller
+panel on the right to see the true scale
+for how tall and skinny the crevasse is. As the aquifer water
+flows into the crevasse, some of it refreezes
+in the negative 15 degree Celsius ice. That's about as cold
+as your kitchen freezer. But this loss can be overcome if the flow rate in from
+the glacier aquifer is high enough. In our case, it is, and the aquifer water drives the crevasse
+all the way to the base of the ice sheet a thousand meters below. From there, it has a clear path
+to reach the ocean. So the aquifer water is a part of the three millimeters
+per year of sea level rise that we experience as a global society. But there's more: the aquifer water
+might be punching above its weight. The ice flows in complex ways. In some places, the ice flows very fast. There tends to be water
+at the base of the ice sheet here. In other places, not so fast. Usually, there's not water
+present at the base there. Now that we know the aquifer water
+is getting to the base of the ice sheet, the next question is: Is it making the ice itself
+flow faster into the ocean? We're trying to uncover these mysteries
+hidden inside the Greenland ice sheet so that we can better plan
+for the sea level rise it holds. The amount of ice
+that Greenland has lost since 2002 is just a small fraction
+of what that ice sheet holds. Ice sheets are immense, powerful machines
+that operate on long timescales. In the next 80 years, global sea levels
+will rise at least 20 centimeters, perhaps as much as one meter, and maybe more. Our understanding
+of future sea level rise is good, but our projections have a wide range. It's our role as glaciologists
+and scientists to narrow these uncertainties. How much sea level rise is coming, and how fast will it get here? We need to know how much and how fast, so the world and its communities can
+plan for the sea level rise that's coming. Thank you. (Applause) 

@@ -1,0 +1,133 @@
+The word concussion evokes a fear
+these days more so than it ever has, and I know this personally. I played 10 years of football, was struck in the head thousands of times. And I have to tell you, though,
+what was much worse than that was a pair of bike accidents I had
+where I suffered concussions, and I'm still dealing with the effects
+of the most recent one today as I stand in front of you. There is a fear around concussion that does have some evidence behind it. There is information
+that a repeated history of concussion can lead to early dementia,
+such as Alzheimer's, and chronic traumatic encephalopathy. That was the subject
+of the Will Smith movie "Concussion." And so everybody is caught up in football
+and what they see in the military, but you may not know that bike riding is the leading cause
+of concussion for kids, sports-related concussion, that is. And so another thing
+that I should tell you that you may not know is that the helmets that are worn
+in bicycling and football and many activities, they're not designed or tested for how well they can protect
+your children against concussion. They're in fact designed and tested for their ability to protect
+against skull fracture. And so I get this question
+all the time from parents, and they ask me, "Would you let your own child
+play football?" Or, "Should I let my child play soccer?" And I think that as a field, we're a long way from giving an answer
+with any kind of confidence there. So I look at that question
+from a bit of a different lens, and I want to know,
+how can we prevent concussion? Is that even possible? And most experts think that it's not, but the work that we're doing in my lab is starting to reveal more
+of the details around concussion so that we can have
+a better understanding. The reason we're able
+to prevent skull fracture with helmets is because it's pretty simple.
+We know how it works. Concussion has been
+much more of a mystery. So to give you a sense of what might
+be happening in a concussion, I want to show you the video here that you see when you type into Google, "What is a concussion?" The CDC website comes up, and this video essentially
+tells the whole story. What you see is the head moves forward, the brain lags behind, then the brain catches up and smashes into the skull. It rebounds off the skull and then proceeds to run
+into the other side of the skull. And what you'll notice is highlighted
+in this video from the CDC, which I'll note was funded by the NFL, is that the outer surface of the brain, where it was to have
+smashed into the skull, looks like it's been damaged or injured,
+so it's on the outer surface of the brain. And what I'd like to do with this video is to tell you that there are
+some aspects that are probably right, indicative of what the scientists
+think happens with concussion, but there's probably more
+that's wrong with this video. So one thing that I do agree with,
+and I think most experts would, is that the brain
+does have these dynamics. It does lag behind the skull and then catch up and move
+back and forth and oscillate. That we think is true. However, the amount of motion
+you see in the brain in this video is probably not right at all. There's very little room
+in the cranial vault, only a few millimeters, and it's filled entirely
+with cerebral spinal fluid, which acts as a protective layer. And so the brain as a whole probably
+moves very little inside the skull. The other problem with this video is that the brain is shown as a kind of rigid whole
+as it moves around, and that's not true either. Your brain is one of the softest
+substances in your body, and you can think of it
+kind of like jello. So as your head is moving back and forth, your brain is twisting
+and turning and contorting, and the tissue is getting stretched. And so most experts, I think, would agree that concussion is not likely
+to be something that's happening on this outer surface of the brain, but rather it's something
+that's much deeper towards the center of the brain. Now, the way that we're
+approaching this problem to try to understand
+the mechanisms of concussion and to figure out if we can prevent it is we are using a device like this. It's a mouthguard. It has sensors in it
+that are essentially the same that are in your cell phone: accelerometers, gyroscopes, and when someone is struck in the head, it can tell you how their head moved at a thousand samples per second. The principle behind
+the mouthguard is this: it fits onto your teeth. Your teeth are one of the hardest
+substances in your body. So it rigidly couples to your skull and gives you the most precise
+possible measurement of how the skull moves. People have tried
+other approaches, with helmets. We've looked at other sensors
+that go on your skin, and they all simply move around too much, and so we found that this
+is the only reliable way to take a good measurement. So now that we've got this device,
+we can go beyond studying cadavers, because you can only
+learn so much about concussion from studying a cadaver, and we want to learn
+and study live humans. So where can we find
+a group of willing volunteers to go out and smash their heads
+into each other on a regular basis and sustain concussion? Well, I was one of them, and it's your local friendly
+Stanford football team. So this is our laboratory, and I want to show you the first concussion
+we measured with this device. One of the things that I should point out
+is the device has this gyroscope in it, and that allows you
+to measure the rotation of the head. Most experts think
+that that's the critical factor that might start to tell us
+what is happening in concussion. So please watch this video. Announcer: Cougars bring
+extra people late, but Luck has time, and Winslow is crushed. I hope he's all right. (Audience roars) Top of your screen, you'll see him come on
+just this little post route, get separation, safety. Here it comes at you in real speed.
+You'll hear this. The hit delivered by -- David Camarillo: Sorry, three times
+is probably a little excessive there. But you get the idea. So when you look at just the film here, pretty much the only thing you can see
+is he got hit really hard and he was hurt. But when we extract the data out of the mouthguard that he was wearing, we can see much more detail,
+much richer information. And one of the things that we noticed here is that he was struck
+in the lower left side of his face mask. And so that did something first
+that was a little counterintuitive. His head did not move to the right. In fact, it rotated first to the left. Then as the neck began to compress, the force of the blow caused it
+to whip back to the right. So this left-right motion
+was sort of a whiplash-type phenomenon, and we think that is probably
+what led to the brain injury. Now, this device is only limited in such
+that it can measure the skull motion, but what we really want to know
+is what's happening inside of the brain. So we collaborate with
+Svein Kleiven's group in Sweden. They've developed a finite element
+model of the brain. And so this is a simulation using the data from our mouthguard
+from the injury I just showed you, and what you see is the brain -- this is a cross-section right in the front of the brain twisting
+and contorting as I mentioned. So you can see this doesn't
+look a lot like the CDC video. Now, the colors that you're looking at are how much the brain tissue
+is being stretched. And so the red is 50 percent. That means the brain has been stretched
+to 50 percent of its original length, the tissue in that particular area. And the main thing I want to draw
+your attention to is this red spot. So the red spot is very close
+to the center of the brain, and relatively speaking, you don't see a lot of colors like that
+on the exterior surface as the CDC video showed. Now, to explain a little more detail about how we think
+concussion might be happening, one thing I should mention is that we and others have observed
+that a concussion is more likely when you're struck and your head
+rotates in this direction. This is more common
+in sports like football, but this seems to be more dangerous.
+So what might be happening there? Well, one thing that you'll notice
+in the human brain that is different than other animals is we have these two very large lobes. We have the right brain
+and the left brain. And the key thing
+to notice in this figure here is that right down the center
+of the right brain and the left brain there's a large fissure
+that goes deep into the brain. And in that fissure,
+what you can't see in this image, you'll have to trust me, there is a fibrous sheet of tissue. It's called the falx, and it runs from the front of your head
+all the way to the back of your head, and it's quite stiff. And so what that allows for
+is when you're struck and your head rotates
+in this left-right direction, forces can rapidly transmit
+right down to the center of your brain. Now, what's there
+at the bottom of this fissure? It's the wiring of your brain, and in fact this red bundle
+here at the bottom of that fissure is the single largest fiber bundle that is the wiring that connects
+the right and left sides of your brain. It's called the corpus callosum. And we think that this might be one of the most common
+mechanisms of concussion, and as the forces move down,
+they strike the corpus callosum, it causes a dissociation
+between your right and your left brain and could explain some
+of the symptoms of concussion. This finding is also consistent
+of what we've seen in this brain disease that I mentioned,
+chronic traumatic encephalopathy. So this is an image of a middle-aged
+ex-professional football player, and the thing that I want to point out
+is if you look at the corpus callosum, and I'll page back here so you can see
+the size of a normal corpus callosum and the size of the person here
+who has chronic traumatic encephalopathy, it is greatly atrophied. And the same goes
+for all of the space in the ventricles. These ventricles are much larger. And so all of this tissue
+near the center of the brain has died off over time. So what we're learning
+is indeed consistent. Now, there is some good news here, and I hope to give you a sense
+of hope by the end of this talk. One of the things that we've noticed, specifically about
+this mechanism of injury, is although there's a rapid transmission
+of the forces down this fissure, it still takes a defined amount of time. And what we think is that if we can
+slow the head down just enough so that the brain
+does not lag behind the skull but instead it moves
+in synchrony with the skull, then we might be able to prevent
+this mechanism of concussion. So how can we slow the head down? (Laughter) A gigantic helmet. So with more space, you have more time, and this is a bit of a joke,
+but some of you may have seen this. This is bubble soccer,
+and it's a real sport. In fact, I saw some young adults playing this sport down the street
+from my house the other day, and as far as I know
+there have been no reported concussions. (Laughter) But in all seriousness,
+this principle does work, but this has gone too far. This isn't something that's practical
+for bike riding or playing football. 
